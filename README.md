@@ -41,17 +41,11 @@ Application should allow users to delete previously saved notes.
 
 ## Deploying the App
 
-
+Heroku Url - https://peaceful-beyond-02525.herokuapp.com/notes
 
 - - -
 
-## Commit Early and Often
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
 
 
 
